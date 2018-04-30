@@ -14,7 +14,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #2cd6db;
+    color: #1d9da1;
 }
 a:hover {
     text-decoration: underline;
@@ -22,7 +22,7 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Courier New';
-    color: #2cd6db;
+    color: #1d9da1;
 }
 p {
     font-family:'Courier New';
