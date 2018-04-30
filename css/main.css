@@ -14,7 +14,7 @@ nav ul li, footer ul li {
 }
 a {
     text-decoration: none;
-    color: #999;
+    color: #6bd0dd;
 }
 a:hover {
     text-decoration: underline;
@@ -38,7 +38,8 @@ footer {
 ul.posts { 
     font-family:'Courier New';
     margin: 20px auto 40px; 
-    font-size: .1em;
+    font-size: .8em;
+    line-height: 1.3em;
 }
 
 ul.posts li {
